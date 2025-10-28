@@ -1,0 +1,3 @@
+python-magic-bin
+pikepdf
+python-tkdnd
